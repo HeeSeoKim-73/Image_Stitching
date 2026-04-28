@@ -1,8 +1,8 @@
 # Image Stitching #
 
 ## 특징 ##
-3장의 이미지를 정합하여, 하나의 큰 이미지를 생성하는 프로그램이다.
-Planar view가 아닌 Spherical view로 구현하였다.
+- 3장의 이미지를 정합하여, 하나의 큰 이미지를 생성하는 프로그램이다.
+- Planar view가 아닌 Spherical view로 구현하였다.
 
 ## 핵심 함수 ##
 - detect_and_match() : SIFT 특징점 검출, FLANN 매칭, Homography 계산
