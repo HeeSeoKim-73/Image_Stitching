@@ -12,9 +12,9 @@
 - stitch_three_images() : stitching 전체 과정 실행
 
 ## 이미지 ##
-!(img1)[img1]
-![img2](img2)
-![img3](img3)
+![img1](img1.jpeg)
+![img2](img2.jpeg)
+![img3](img3.jpeg)
 
 ### result ###
-![stitched_result](
+![stitched_result](stitched_result.jpg)
