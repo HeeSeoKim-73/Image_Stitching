@@ -11,3 +11,10 @@
 - crop_black_border() : 검은 여백 제거
 - stitch_three_images() : stitching 전체 과정 실행
 
+## 이미지 ##
+!(img1)[img1]
+![img2](img2)
+![img3](img3)
+
+### result ###
+![stitched_result](
